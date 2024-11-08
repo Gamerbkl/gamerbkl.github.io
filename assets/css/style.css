@@ -1505,7 +1505,7 @@ img {vertical-align: middle;}
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
-  transition: background-color 4.1s ease;
+  transition: background-color 3.6s ease;
 }
 
 .active {
